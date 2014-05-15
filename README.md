@@ -1,5 +1,7 @@
-[![Website](http://01031999s-bots.github.io/No)
-[![Build Status](https://github.com/01031999s-Bots/No)
+[!Website](http://01031999s-bots.github.io/No)
+
+[!Build Status](https://github.com/01031999s-Bots/No)
+
 fchat-pokerbot-ruby
 =============
 
