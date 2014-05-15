@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/rgooler/fchat_pokerbot_ruby.png?branch=master)](https://travis-ci.org/rgooler/fchat_pokerbot_ruby)
-
+[![Website]()
+[![Build Status](https://github.com/01031999s-Bots/No)
 fchat-pokerbot-ruby
 =============
 
